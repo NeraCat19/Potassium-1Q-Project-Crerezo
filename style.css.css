@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(43, 7, 43);
+    color: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.header{
+    background-color: rgb(40, 4, 49);
+    padding: 10px;
+    display: flex;
+}
+
+.header img{
+    width: 69px;
+    height: 69px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 50px;
+}
+
+.title {
+    font-family: Arial, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.introduction {
+    display:flex;
+    font-size: 38px;
+    gap: 150px;
+    margin-left: 100px;
+}
+
+.content img{
+    width: 400px;
+    height: 400px;
+    margin-right: 200px;
+}
+
+.faq {
+    margin-left: 120px;
+    font-size: 20px;
+}
+
+.questions {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 300px;
+    gap: 250px;
+}
+
+.answers {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 350px;
+    gap: 420px;
+
+}
+.content1{
+    display: flex;
+    margin-left: auto;
+    margin-right: 200px;
+    gap: 50px;
+    font-size: 35px;
+}
+
+.content1 img{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.content2{
+    display:flex;
+    margin-left: 200px;
+    margin-right: 300px;
+    gap: 50px;
+    font-size: 35px;
+}
+.content2 img{
+    width: 500px;
+    height: 500px;
+    margin-right: auto;
+}
+.me p{
+    font-size: 35px;
+    justify-content: center;
+}
+
+.schedule{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
